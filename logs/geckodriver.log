@@ -1,0 +1,224 @@
+1621804360629	geckodriver	INFO	Listening on 127.0.0.1:41043
+1621804360638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAmWAkK"
+*** You are running in headless mode.
+1621804363877	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24154): GLib-GObject-CRITICAL **: 02:42:45.426: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24181): GLib-GObject-CRITICAL **: 02:42:45.787: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24241): GLib-GObject-CRITICAL **: 02:42:47.224: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621804371549	Marionette	INFO	Listening on port 39565
+1621804371718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1621804385131	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://accounts.moneycontrol.com/assets/js/mclogin/login_signup.js?id=2021052115, line 1197: ReferenceError: facebook_app_id is not defined
+JavaScript error: https://stat1.moneycontrol.com/mcjs/portfoliov4/portfolio.js?v79, line 2125: TypeError: data is null
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 707 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 707 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 2584 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 2584 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 379 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 379 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621804431970	Marionette	INFO	Stopped listening on port 39565
+1621804481156	geckodriver	INFO	Listening on 127.0.0.1:36273
+1621804481166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehxB8Za"
+*** You are running in headless mode.
+1621804489007	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24601): GLib-GObject-CRITICAL **: 02:44:49.737: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+
+(/usr/lib/firefox/firefox:24621): GLib-GObject-CRITICAL **: 02:44:49.910: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621804493877	Marionette	INFO	Listening on port 42819
+1621804493967	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24696): GLib-GObject-CRITICAL **: 02:44:53.989: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1621804505434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://accounts.moneycontrol.com/assets/js/mclogin/login_signup.js?id=2021052115, line 1197: ReferenceError: facebook_app_id is not defined
+JavaScript error: https://stat1.moneycontrol.com/mcjs/portfoliov4/portfolio.js?v79, line 2125: TypeError: data is null
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 5789 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 5789 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 1002 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 1002 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 2866 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 2866 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621804560712	Marionette	INFO	Stopped listening on port 42819
+1621805301750	geckodriver	INFO	Listening on 127.0.0.1:45951
+1621805301759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelo6Al2"
+*** You are running in headless mode.
+1621805311681	geckodriver	INFO	Listening on 127.0.0.1:40073
+1621805311690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY1ddcb"
+*** You are running in headless mode.
+1621805313806	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25207): GLib-GObject-CRITICAL **: 02:58:34.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25230): GLib-GObject-CRITICAL **: 02:58:34.676: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+Exiting due to channel error.
+Exiting due to channel error.
+1621813165317	geckodriver	INFO	Listening on 127.0.0.1:52385
+1621813165372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOJz3X"
+*** You are running in headless mode.
+1621813169685	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31428): GLib-GObject-CRITICAL **: 05:09:31.154: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31455): GLib-GObject-CRITICAL **: 05:09:31.653: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:31519): GLib-GObject-CRITICAL **: 05:09:36.472: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621813176582	Marionette	INFO	Listening on port 33701
+1621813176843	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1621813254263	geckodriver	INFO	Listening on 127.0.0.1:38583
+1621813254279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecwWvrV"
+*** You are running in headless mode.
+1621813256440	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31707): GLib-GObject-CRITICAL **: 05:10:57.182: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+
+(/usr/lib/firefox/firefox:31727): GLib-GObject-CRITICAL **: 05:10:57.377: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621813261183	Marionette	INFO	Listening on port 44865
+1621813261229	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31800): GLib-GObject-CRITICAL **: 05:11:01.269: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621813270949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://accounts.moneycontrol.com/assets/js/mclogin/login_signup.js?id=2021052115, line 1197: ReferenceError: facebook_app_id is not defined
+JavaScript error: https://stat1.moneycontrol.com/mcjs/portfoliov4/portfolio.js?v79, line 2125: TypeError: data is null
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 3101 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 3101 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621813312667	Marionette	INFO	Stopped listening on port 44865
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1621813347586	geckodriver	INFO	Listening on 127.0.0.1:51163
+1621813347596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6LpRm4"
+*** You are running in headless mode.
+1621813351400	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32163): GLib-GObject-CRITICAL **: 05:12:32.202: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+
+(/usr/lib/firefox/firefox:32183): GLib-GObject-CRITICAL **: 05:12:32.408: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32244): GLib-GObject-CRITICAL **: 05:12:34.576: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621813358586	Marionette	INFO	Listening on port 34835
+1621813358654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1621813369775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://accounts.moneycontrol.com/assets/js/mclogin/login_signup.js?id=2021052115, line 1197: ReferenceError: facebook_app_id is not defined
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat1.moneycontrol.com/mcjs/portfoliov4/portfolio.js?v79, line 2125: TypeError: data is null
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 677 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 677 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621813417153	Marionette	INFO	Stopped listening on port 34835
+1621813452495	geckodriver	INFO	Listening on 127.0.0.1:40381
+1621813452505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--incognito" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileothhzN"
+*** You are running in headless mode.
+1621813456644	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32740): GLib-GObject-CRITICAL **: 05:14:17.274: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32762): GLib-GObject-CRITICAL **: 05:14:17.481: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32821): GLib-GObject-CRITICAL **: 05:14:19.405: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621813463434	Marionette	INFO	Listening on port 43205
+1621813463568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.moneycontrol.com/webcontent/9681186cui1861fbc8dbe870b79b27, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1621813474977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://accounts.moneycontrol.com/assets/js/mclogin/login_signup.js?id=2021052115, line 1197: ReferenceError: facebook_app_id is not defined
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat1.moneycontrol.com/mcjs/portfoliov4/portfolio.js?v79, line 2125: TypeError: data is null
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stat2.moneycontrol.com/assets/js/mcfisdomprod.js?v=25032111, line 247: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 6148 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 6148 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621813521016	Marionette	INFO	Stopped listening on port 43205
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
