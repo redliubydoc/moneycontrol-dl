@@ -23,7 +23,7 @@ geckodriver_log = os.path.join(project_root, "logs", "geckodriver.log")
 spreadsheet_path = os.path.join(project_root, "data", "spreadsheet.xlsx")
 
 # backup spreadsheet path
-spreadsheet_backup_path = os.path.join(project_root, "data", ".spreadsheet_bakup.xlsx")
+spreadsheet_backup_path = os.path.join(project_root, "data", ".spreadsheet_backup.xlsx")
 
 # data folder path
 data_directory_path = os.path.join(project_root, "data")
