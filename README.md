@@ -21,7 +21,7 @@ A python script that fetches stock prices from your moneycontrol portfolio and s
 ### Debugging
 
 * Make sure you are connected to internet
-* If you stuck login indefinitely then probably your credentials are wrong
+* If you stuck in login then probably your credentials are wrong
 * If you get error related to web driver then
   * Update your firefox browser and download the latest release of gecko web driver
   * You can download it from "https://github.com/mozilla/geckodriver/releases"
