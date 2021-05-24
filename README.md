@@ -11,10 +11,10 @@ A python script that fetches stock prices from your moneycontrol portfolio and s
 
 ### Dependencies
 
-    $ pip3 install selenium
-    $ pip3 install pandas
-    $ pip3 install openpyxl
-    $ pip3 install colorama
+    pip3 install selenium
+    pip3 install pandas
+    pip3 install openpyxl
+    pip3 install colorama
 
 *   mozilla firefox
 
