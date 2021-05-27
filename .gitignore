@@ -1,4 +1,4 @@
-.idea/
-.webdrivers/linux/geckodriver
-.webdrivers/windows/geckodriver.exe
-
+.idea/*
+src/__pycache__/*
+webdrivers/*
+!webdrivers/readme.txt

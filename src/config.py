@@ -12,9 +12,9 @@ project_root = os.path.join("..")
 
 # webdriver path
 if os.name.lower() == 'nt':
-    geckodriver = os.path.join(project_root, "webdrivers", "windows", "geckodriver.exe")
+    geckodriver = os.path.join(project_root, "webdrivers", "geckodriver.exe")
 elif os.name.lower() == 'posix':
-    geckodriver = os.path.join(project_root, "webdrivers", "linux", "geckodriver")
+    geckodriver = os.path.join(project_root, "webdrivers", "geckodriver")
 
 # geckodriver log path
 geckodriver_log = os.path.join(project_root, "logs", "geckodriver.log")
