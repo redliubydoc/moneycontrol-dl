@@ -5,8 +5,10 @@ A python script that fetches stock prices from your moneycontrol portfolio and s
 ### How to Run?
 
 * Open "src/credentials.py" and put your username and password of your moneycontrol account there
-* Run ./moneycontrol-dl.sh if you are linux user
-* Run ./moneycontrol-dl.bat if you are windows user
+* Update your firefox browser
+* Download the latest release of gecko web driver form https://github.com/mozilla/geckodriver/releases
+* Extract it into the 'webdrivers/linux and Run ./moneycontrol-dl.sh if you are linux user
+* Extract it into the 'webdrivers/windows and Run ./moneycontrol-dl.bat if you are windows user
   
 
 ### Dependencies
@@ -21,12 +23,8 @@ A python script that fetches stock prices from your moneycontrol portfolio and s
 ### Debugging
 
 * Make sure you are connected to internet
-* If you get stuck in login for a long tiem then probably your credentials are wrong
-* If you get an error related to web driver then
-  * Update your firefox browser and download the latest release of gecko web driver
-  * You can download it from "https://github.com/mozilla/geckodriver/releases"
-  * Extract it into the 'webdrivers/<linux/windows>' directory
+* If you get stuck in login for a long time then probably your credentials are wrong
   
 ### Optional 
 
-* You may use windows scheduler or cron to run this script automatically on a daily basis at a specific time 
+* You may use windows scheduler or cron to run this script automatically on a daily basis at a specific time

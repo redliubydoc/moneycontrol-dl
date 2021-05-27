@@ -53,7 +53,6 @@ class MoneyControl:
 
         except Exception as e:
             self.stop_io_thread(lmsg="unable to launch webdriver", rmsg='[error]', level='DANGER')
-            print(e)
 
     def start_io_thread(self, msg, end='\r', level='INFO'):
         msg = msg.capitalize()
