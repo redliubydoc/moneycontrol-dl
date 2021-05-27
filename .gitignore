@@ -1,3 +1,4 @@
 .idea/
-.webdrivers/windows/geckodriver.exe
 .webdrivers/linux/geckodriver
+.webdrivers/windows/geckodriver.exe
+
