@@ -1,0 +1,3 @@
+target_table_id: myTableSort
+target_elements: table#myTableSort > tbody > tr > td:nth-child(1) > span.asset_info # its a collection
+example: <span class="asset_info" data-name="Aarti Drugs" account_id="" asset-id="AD" asset-type="stock" live-price="420.85" etf="0" data-schedule="null"> </span>

@@ -1,1 +1,1 @@
-cd src && python3 moneycontrol-dl.py
+clear && python3 src/moneycontrol.py

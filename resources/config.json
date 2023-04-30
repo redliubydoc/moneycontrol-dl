@@ -1,0 +1,24 @@
+{
+  "moneycontrol": {
+    "base_url": "https://www.moneycontrol.com/",
+    "stock_tab_url": "https://www.moneycontrol.com/portfolio-management/portfolio-investment-dashboard/stock/"
+  },
+
+  "browser": {
+      "firefox": {
+      "headless": true,
+      "profile_path": "C:\\Users\\John Doe\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\moneycontrol",
+      "driver_path": "webdrivers/geckodriver",
+      "log_path": "logs/geckodriver.log"
+    }
+  },
+
+  "data": {
+    "spreadsheet_path": "data/spreadsheet.xlsx",
+    "spreadsheet_backup_path": "data/.spreadsheet_backup.xlsx"
+  },
+
+  "application": {
+    "print_errs": false
+  }
+}
