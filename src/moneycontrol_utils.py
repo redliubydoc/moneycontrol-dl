@@ -1,5 +1,9 @@
 from bs4 import BeautifulSoup
 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions
+
 import pandas
 import datetime
 
@@ -8,6 +12,9 @@ def cleanup(driver):
 
 
 def scrap_stock_data(driver):
+
+    # wait until target table is not loaded
+    WebDriverWait(driver, 900).until(expected_conditions.presence_of_element_located((By.ID, "myTableSort")))
 
     html = driver.execute_script("return document.querySelector(\"#myTableSort\").outerHTML;")
     document = BeautifulSoup(html, "html5lib")
