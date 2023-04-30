@@ -54,7 +54,7 @@ def save_records(df_today, spreadsheet_path, backup_spreadsheet_path):
 
         # update stocks names code starts here
         for i, row in df.iterrows():
-            if row["NAME_R"]:
+            if not pandas.isnull(row["NAME_R"]):
                 df.at[i, "NAME_L"] = row["NAME_R"]
 
         df.drop(columns="NAME_R", inplace=True)
