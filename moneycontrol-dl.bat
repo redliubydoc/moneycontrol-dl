@@ -1,1 +1,1 @@
-echo off && cls && python src\moneycontrol.py
+echo off && python src\moneycontrol.py

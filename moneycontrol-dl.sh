@@ -1,1 +1,1 @@
-clear && python3 src/moneycontrol.py
+python3 src/moneycontrol.py
